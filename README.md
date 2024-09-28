@@ -5,9 +5,13 @@ Data cleaning and preprocessing
 Exploratory data analysis (EDA)
 Visualization of data relationships using a heatmap
 Insights into correlations between various numerical features
+
 Tools Used:
 
 Pandas
+
 Matplotlib
+
 Seaborn
+
 NumPy
